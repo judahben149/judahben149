@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Android development with Kotlin**
 
-- 📫 How to reach me **judahben149@gmail.com**
+- 📫 You can reach me at **judahben149@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/judahben149/](www.linkedin.com/in/judahben149/)
+- 📄 Find out about my experiences at [www.linkedin.com/in/judahben149/](www.linkedin.com/in/judahben149/)
 
-- ⚡ Fun fact **I play the bass**
+- ⚡ Fun fact **- I play the bass** 🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
