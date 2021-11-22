@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Judah</h1>
 <h3 align="center">A native Android developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=0e75b6&style=flat" alt="judahben149" /> </p>
+
 - 🌱 I’m currently learning **Android development with Kotlin**
 
 - 📫 You can reach me at **judahben149@gmail.com**
