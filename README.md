@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Judah</h1>
-<h3 align="center">A native Android developer</h3>
+<h3 align="center">A budding Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=0e75b6&style=flat" alt="judahben149" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📄 Find out about my experiences at [www.linkedin.com/in/judahben149/](www.linkedin.com/in/judahben149/)
 
-- ⚡ Fun fact **- I play the bass** 🎸
+- ⚡ Fun fact about me? **- I like to play the bass** 🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
