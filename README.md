@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Android development with Kotlin**
 
-- 😱🤯 Discovering what makes things work is a huge stir for me
-
 - 🗒🖊️ I document my 1oo days of code journey on my LinkedIn
+
+- 😱🤯 Figuring out how things work makes me happy.
 
 - 📫 You can reach me at **judahben149@gmail.com**
 
