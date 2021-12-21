@@ -7,7 +7,7 @@
 
 - 🗒🖊️ I document my 1oo days of code journey on my LinkedIn.
 
-- 😱🤯 Figuring out how things work hypes me up.
+- 😱🤯 Figuring out how things work gets me hyped.
 
 - 📫 You can reach me at **judahben149@gmail.com**
 
