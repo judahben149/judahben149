@@ -9,9 +9,9 @@
 
 - 😱🤯 Figuring out how things work hypes me up.
 
-- 📫 You can reach me at [judahben149@gmail.com/](https://www.judahjesus149@gmail.com/)
+- 📫 You can reach me at **judahben149@gmail.com**
 
-- 📄 Find out about my experiences at [my LinkedIn](https://www.linkedin.com/in/judahben149)
+- 📄 Find out about my experiences on [my LinkedIn](https://www.linkedin.com/in/judahben149)
 
 - ⚡ Fun fact about me? **- I like to play the bass** 🎸
 
