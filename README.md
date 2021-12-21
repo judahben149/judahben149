@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=0e75b6&style=flat" alt="judahben149" /> </p>
 
-- 🌱 I’m currently learning **Android development with Kotlin**
+- 🌱 I’m currently learning **Android development with Kotlin**.
 
-- 🗒🖊️ I document my 1oo days of code journey on my LinkedIn
+- 🗒🖊️ I document my 1oo days of code journey on my LinkedIn.
 
-- 😱🤯 Figuring out how things work makes me happy.
+- 😱🤯 Figuring out how things work hypes me up.
 
-- 📫 You can reach me at **judahben149@gmail.com**
+- 📫 You can reach me at [judahben149@gmail.com/](judahben149@gmail.com/)
 
 - 📄 Find out about my experiences at [www.linkedin.com/in/judahben149/](www.linkedin.com/in/judahben149/)
 
