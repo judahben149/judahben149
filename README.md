@@ -9,7 +9,7 @@
 
 - 😱🤯 Figuring out how things work gets me hyped.
 
-- 📫 You can reach me at **judahben149@gmail.com**
+- 📫 You can reach me at [**judahben149@gmail.com**](mailto:judahben149@gmail.com)
 
 - 📄 Find out about my experiences on [my LinkedIn](https://www.linkedin.com/in/judahben149)
 
