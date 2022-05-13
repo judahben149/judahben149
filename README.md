@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Android development with Kotlin**.
 
-- 🗒🖊️ I document my 1oo days of code journey on my LinkedIn.
-
 - 😱🤯 Figuring out how things work gets me hyped.
 
 - 📫 You can reach me at [**judahben149@gmail.com**](mailto:judahben149@gmail.com)
 
-- 📄 Find out about my experiences on [my LinkedIn](https://www.linkedin.com/in/judahben149)
+- 📄 Find out about my experience on [my LinkedIn](https://www.linkedin.com/in/judahben149)
 
 - ⚡ Fun fact about me? **- I like to play the bass** 🎸
 
