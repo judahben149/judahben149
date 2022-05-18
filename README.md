@@ -23,6 +23,13 @@
  <img src= "https://img.shields.io/badge/Linkedin-31d47d?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
 
+   
+<h2 align= "center"> GitHub Stats </h2>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=judahben149&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D&border=31D47D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judahben149&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=judahben149&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
 <!-- <p align="left">
 <a href="https://twitter.com/judahben149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="judahben149" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/judahben149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judahben149" height="30" width="40" /></a>
