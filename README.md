@@ -17,10 +17,10 @@
 
 <div id="badges" align="left">
    <a href= "https://twitter.com/judahben149">
- <img src= "https://img.shields.io/badge/Twitter-31d47d?logo=twitter&logoColor=white" alt= "Twitter Badge">
+ <img src= "https://img.shields.io/badge/Twitter-a826e4?logo=twitter&logoColor=white" alt= "Twitter Badge">
   </a>
   <a href="https://linkedin.com/in/judahben149">
- <img src= "https://img.shields.io/badge/Linkedin-31d47d?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
+ <img src= "https://img.shields.io/badge/Linkedin-a826e4?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
 
    
