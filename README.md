@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Judah</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+an+Android+Developer)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+an+Android+Developer)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=0e75b6&style=flat" alt="judahben149" /> </p>
 
 - 🌱 I’m currently learning **Android development with Kotlin**.
