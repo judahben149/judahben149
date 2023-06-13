@@ -5,9 +5,7 @@
 
 - I'm an Android Developer with a passion for creating robust and user-friendly mobile applications.
 
-- I'm really interested in knowing how things work, like really.
-
-- Find out about my experience on [my LinkedIn](https://www.linkedin.com/in/judahben149)
+- I'm really interested in knowing how things actually work, like really!
 
 <h3 align="left">Connect with me:</h3>
 
