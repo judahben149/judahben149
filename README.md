@@ -1,4 +1,4 @@
-<h1 align="center">Hi, human! Judah here.</h1>
+<h1 align="center">Hi there!</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=31d47d&lines=I'm+an+Android+Developer!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=31d47d&style=flat" alt="judahben149" /> </p>
