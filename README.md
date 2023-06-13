@@ -1,17 +1,13 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi there! 👋🏾</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=31d47d&lines=I'm+an+Android+Developer!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=31d47d&style=flat" alt="judahben149" /> </p>
 
-- 🌱 I build and improve **Android applications with Kotlin**.
+- I'm an Android Developer with a passion for creating robust and user-friendly mobile applications.
 
-- 😱🤯 Figuring out how things work gets me hyped.
+- I'm really interested in knowing how things work, like really.
 
-- 📫 You can reach me at [**judahben149@gmail.com**](mailto:judahben149@gmail.com)
-
-- 📄 Find out about my experience on [my LinkedIn](https://www.linkedin.com/in/judahben149)
-
-- ⚡ Fun fact about me? **- I like to play the bass** 🎸
+- Find out about my experience on [my LinkedIn](https://www.linkedin.com/in/judahben149)
 
 <h3 align="left">Connect with me:</h3>
 
