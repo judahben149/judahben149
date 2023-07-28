@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=31d47d&lines=I'm+an+Android+Developer!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=31d47d&style=flat" alt="judahben149" /> </p>
 
-- I create robust and user-friendly mobile applications.
+- I create robust and user-friendly mobile and POS applications.
 
 - I'm also really interested in figuring out how things actually work, like really!
 
