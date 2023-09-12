@@ -1,13 +1,10 @@
-<h1 align="center">Hi there! 👋🏾</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=31d47d&lines=I'm+an+Android+and+POS+Engineer!)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=31d47d&style=flat" alt="judahben149" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=31d47d&lines=Hi+there!+👋🏾;I'm+a+Mobile+and+POS+Engineer!+‎‎+++++)](https://git.io/typing-svg)
 
 - I create robust and user-friendly mobile and POS applications.
 
 - I'm also really interested in figuring out how things actually work, like really!
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Curious what I'm up to?</h4>
 
 <div id="badges" align="left">
    <a href= "https://twitter.com/judahben149">
@@ -16,6 +13,7 @@
   <a href="https://linkedin.com/in/judahben149">
  <img src= "https://img.shields.io/badge/Linkedin-a826e4?logo=linkedin&logoColor=white" alt= "Linkedin Badge">
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=judahben149&label=Profile%20views&color=31d47d&style=flat" alt="judahben149" /> </p>
 
    
 <h2 align= "center"> GitHub Stats </h2>
