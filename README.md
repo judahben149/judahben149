@@ -17,8 +17,8 @@
 
    
 <h2 align= "center"> GitHub Stats </h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=judahben149&theme=green-nur)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=judahben149&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D&border=31D47D)](https://git.io/streak-stats)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judahben149&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
